@@ -1,1 +1,1 @@
-# stockExchange
+# stock-exchange
