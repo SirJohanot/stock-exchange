@@ -1,4 +1,4 @@
-package com.epam.stockexchange.exchangesystem;
+package com.patiun.stockexchange.exchangesystem;
 
 public enum TransactionType {
 

@@ -1,6 +1,6 @@
-package com.epam.stockexchange.exchangesystem;
+package com.patiun.stockexchange.exchangesystem;
 
-import com.epam.stockexchange.entity.Participant;
+import com.patiun.stockexchange.entity.Participant;
 import org.junit.Assert;
 import org.junit.Test;
 

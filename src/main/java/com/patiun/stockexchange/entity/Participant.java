@@ -1,8 +1,8 @@
-package com.epam.stockexchange.entity;
+package com.patiun.stockexchange.entity;
 
-import com.epam.stockexchange.exception.TransactionException;
-import com.epam.stockexchange.exchangesystem.StockExchangePlatform;
-import com.epam.stockexchange.exchangesystem.TransactionType;
+import com.patiun.stockexchange.exception.TransactionException;
+import com.patiun.stockexchange.exchangesystem.StockExchangePlatform;
+import com.patiun.stockexchange.exchangesystem.TransactionType;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

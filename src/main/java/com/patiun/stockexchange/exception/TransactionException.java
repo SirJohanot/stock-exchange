@@ -1,4 +1,4 @@
-package com.epam.stockexchange.exception;
+package com.patiun.stockexchange.exception;
 
 public class TransactionException extends Exception {
 
